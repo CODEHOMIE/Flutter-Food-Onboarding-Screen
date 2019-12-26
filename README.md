@@ -1,16 +1,7 @@
-# food_onboarding_app
+# Flutter food onboarding screen
 
-A new Flutter project.
+A beautiful food onboarding screen which can be used when building a food related flutter app for both android and IOS.
 
-## Getting Started
+![preview](https://user-images.githubusercontent.com/48721096/71484794-4aaa6680-281f-11ea-97c9-8186918450bd.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Android Demo APK: http://bit.ly/2Zr1p6Z
